@@ -8,6 +8,8 @@ pipeline {
       steps {
         script{
           println(tools.getName())
+          // vars output
+          println(GetNameById())
         }
       }
     }

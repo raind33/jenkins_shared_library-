@@ -1,5 +1,5 @@
 package org.devops
 
-def call() {
+def getName() {
   println('hhhh')
 }
